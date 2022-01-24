@@ -1,0 +1,12 @@
+time: 637784673718414755 , Person_ID: yesi​ , 
+Target_kind: W=2_D=16_1-Center (4.5, 12.5, 0) , Target_raycastHit: (5.0, 12.0, -0.8)
+Target_kind: W=2_D=16_2-Center (20.5, 12.5, 0) , Target_raycastHit: (20.0, 12.4, -0.9)
+mt1/2 in ms: 848 ms
+Target_kind: W=2_D=16_3-Center (12.5, 4.5, 0) , Target_raycastHit: (12.9, 4.9, -0.8)
+Target_kind: W=2_D=16_4-Pos (12.5, 20.5, 0) , Target_raycastHit: (12.4, 20.0, -0.8)mt3/4 in ms: 1068 ms
+time: 637784675575678174 , Person_ID: Jessica​ , 
+Target_kind: 1_W=2_D=16 Center (4.5, 12.5, 0) , Target_raycastHit: (4.6, 12.3, -1.0)
+Target_kind: 2_W=2_D=16 Center (20.5, 12.5, 0) , Target_raycastHit: (20.9, 12.3, -0.9)
+mt1/2 in ms: 785 ms
+Target_kind: 3_W=2_D=16 Center (12.5, 4.5, 0) , Target_raycastHit: (13.3, 4.4, -0.6)
+Target_kind: W=2_D=16_4-Pos (12.5, 20.5, 0) , Target_raycastHit: (12.6, 20.0, -0.9)mt3/4 in ms: 706 ms
